@@ -1,2 +1,2 @@
-# advancejs
-Reviewing advance JavaScript features
+# Advance JavaScript Subjects 
+Reviewing advance JavaScript concepts
