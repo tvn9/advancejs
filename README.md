@@ -1,2 +1,2 @@
-# Advance JavaScript Subjects 
-Reviewing advance JavaScript concepts
+# Advance JavaScript Concepts
+Reviewing advance JavaScript to write better code in production projects.
