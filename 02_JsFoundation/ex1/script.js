@@ -21,9 +21,15 @@ const favFood = 'grapes'
 const foodThoughts = function () {
    console.log('Original favorite food: ' + favFood)
 
-   const favFood = 'sushi'
+   const favFood1 = 'sushi'
 
-   console.log('New favorite food: ' + favFood)
+   console.log('New favorite food: ' + favFood1)
 }
 
 foodThoughts()
+
+const testFunc = function () {
+   console.log('Thanh Nguyen')
+}
+
+testFunc.call()
